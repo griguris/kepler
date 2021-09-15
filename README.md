@@ -7,6 +7,6 @@ OR
 
 Clone the repository and open file kepler.html.
 
-Feel free to email me griguris@gmail.com
+Feel free to contact me at griguris@gmail.com if necessary.
 
 Grigory Izosimov (griguris)
